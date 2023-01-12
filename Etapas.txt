@@ -1,0 +1,12 @@
+1-Escolha o site de e-commerce em que deseja monitorar os preços dos produtos.
+
+2-Utilize o Puppeteer para abrir o site e navegar até a página de um produto específico.
+
+3-Use o Puppeteer para extrair o preço do produto da página. Isso pode ser feito usando as funções de "selenium" do Puppeteer para selecionar o elemento HTML que contém o preço e obter o seu valor.
+
+4-Armazene o preço extraído em uma base de dados. Isso permitirá que você acesse os preços dos produtos a qualquer momento e compare-os com os preços anteriores.
+
+5-Configure o Puppeteer para executar essas etapas de forma automatizada em intervalos regulares, de modo a monitorar o preço dos produtos em tempo real.
+
+6-Opcionalmente, você pode adicionar uma funcionalidade de notificação para avisar quando o preço de um produto mudar. Por exemplo, você pode enviar um e-mail ou uma mensagem de texto quando o preço cair abaixo de um determinado valor.
+
